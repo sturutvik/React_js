@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Comp from './componets/comp';
 import Frist from './componets/Frist';
+import Classobject from './componets/Classobject';
 
 const add =()=>{
    let a =10
@@ -32,6 +33,7 @@ function App() {
 
       <Comp />
       <Frist />
+      <Classobject />
       </header>
     </div>
     
