@@ -3,6 +3,7 @@ import './App.css';
 import Comp from './componets/comp';
 import Frist from './componets/Frist';
 import Classobject from './componets/Classobject';
+import Fourfunction from './componets/Fourfunction';
 
 const add =()=>{
    let a =10
@@ -34,6 +35,7 @@ function App() {
       <Comp />
       <Frist />
       <Classobject />
+      <Fourfunction />
       </header>
     </div>
     
